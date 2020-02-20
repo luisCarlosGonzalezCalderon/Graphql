@@ -1,0 +1,50 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "321",
+      "createdAt": "number",
+      "name": "string",
+      "type": "dog"
+    },
+    {
+      "id": "111",
+      "createdAt": "number",
+      "name": "string",
+      "type": "string"
+    },
+    {
+      "id": "NOEcmog1PyUOmVV7i5Ffi",
+      "createdAt": 1581729185993,
+      "name": "luis",
+      "type": "dog"
+    },
+    {
+      "id": "AdSNPohuDunIAdFLLCuAI",
+      "createdAt": 1581729232075,
+      "name": "luis",
+      "type": "dog"
+    },
+    {
+      "id": "etHo37_2CoEyccKjVSd7O",
+      "createdAt": 1581729232988,
+      "name": "luis",
+      "type": "dog"
+    },
+    {
+      "id": "nU1c4e_M6_q1FS2HhoR8S",
+      "createdAt": 1581729234059,
+      "name": "luis",
+      "type": "dog"
+    },
+    {
+      "id": "uh-8yXgRz7nbmxnRvq0TP",
+      "createdAt": 1581729235213,
+      "name": "luis",
+      "type": "dog"
+    }
+  ]
+}
